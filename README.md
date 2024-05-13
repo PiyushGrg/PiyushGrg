@@ -11,13 +11,13 @@
 </p>
 
 <p align="center">
-  <a href="https://piyushgrg.bio.link">
+  <a href="https://piyushgarg.me">
     <img src="https://img.shields.io/badge/-Personal%20Website-blueviolet?style=for-the-badge&logoColor=white" alt="Website Badge">
   </a>
   <a href="https://www.linkedin.com/in/piyush-grg/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://twitter.com/piyushgrg_">
+  <a href="https://twitter.com/pgarg4014">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge">
   </a>
 </p>
@@ -31,8 +31,8 @@
   I'm a full-stack developer with a passion for creating innovative solutions and delivering exceptional user experiences. With a strong foundation in the MERN stack, I thrive on tackling complex challenges and continuously expanding my skillset.
 </p>
 
-- 🔭 I'm currently working on **Stack Overflow Clone**
-- 🌱 I'm currently learning **React Native and Next.js**
+- 🔭 I'm currently working on **Zestminds Exam Portal**
+- 🌱 I'm currently learning **Next.js**
 - 💬 Ask me about **MERN Stack, Web Development, and Problem-Solving**
 - 📫 How to reach me: **pgarg4014@gmail.com**
 
